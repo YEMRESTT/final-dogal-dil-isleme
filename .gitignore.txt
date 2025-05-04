@@ -1,0 +1,31 @@
+# Sanal ortam klasörü
+venv/
+
+# Python bytecode dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE/editor ayar klasörleri
+.vscode/
+.idea/
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoint dosyaları
+.ipynb_checkpoints/
+
+# Çevresel dosyalar
+.env
+
+
+#büyük dosyalar
+# .gitignore
+processed_data/tfidf_lemmatized.csv
+processed_data/tfidf_stemmed.csv
+

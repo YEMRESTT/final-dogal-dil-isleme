@@ -1,0 +1,985 @@
+madde_no,madde_baslik,token_count,unique_token_count,sentence_count
+1,Kanun,52,44,4
+2,Herkes,22,22,3
+3,Kanunun iyiniyete hukuk,29,29,3
+4,Kanunun takdir yetkisi tanıdığı veya durumun gereklerini ya da haklı sebepleri göz önünde tutmayı emrettiği konularda h,28,28,2
+5,Bu Kanun ve Borçlar Kanununun genel nitelikli hükümleri,23,22,2
+6,Kanunda aksine bir hüküm bulunmadıkça,19,19,2
+7,Resm,43,39,3
+8,Her insanın hak ehliyeti vardır,25,24,3
+9,Fiil ehliyetine sahip olan kimse,18,18,2
+10,Ayırt etme gücüne sahip ve kısıtlı olmayan her e rgin kişinin fiil ehliyeti vardır,16,16,2
+11,Erginlik onsekiz yaşın doldurulmasıyla başlar,14,13,3
+12,Onbeş yaşını dolduran küçük,19,19,2
+13,Yaşının küçüklüğü yüzünden veya akıl hastalığı,37,36,2
+14,Ayırt etme gücü bulunmayanların,15,13,2
+15,Kanunda gösterilen ayrık durumlar saklı kalmak üzere,25,23,2
+16,Ayırt etme gücüne sahip küçükler ve kısıtlılar,44,36,4
+17,Kan hısımlığının derecesi,35,29,3
+18,Eşlerden biri ile diğer eşin kan hısımları,29,27,3
+19,Yerleşim yeri bir kimsenin sürekli kalma niyetiyle oturduğu yerdir,34,28,4
+20,Bir yerleşim yerinin değiştirilmesi yenisinin edinilmesine bağlıdır,36,27,3
+21,Vel,47,33,4
+22,Bir öğretim kurumuna devam etmek için bir yerde bulunma ya da eğitim,35,33,2
+23,Kimse,60,56,5
+24,Hukuka aykırı olarak kişilik hakkına saldırıla n kim se,46,43,3
+25,Davacı,105,92,6
+26,Adının kullanılması çekişmeli olan kişi,37,35,3
+27,Adın değiştirilmesi,100,82,6
+28,Kişilik,34,31,3
+29,Bir hakkın kullanılması için bir kimsenin sağ veya ölü olduğunu veya belirli bir zamanda ya da başka bir kimsenin ölümünde sağ bulunduğunu ileri süren kimse,51,42,3
+30,Doğum ve ölüm,32,29,3
+31,Bir kimse,23,23,2
+32,Ölüm tehlikesi içinde kaybolan veya kendisinden uzun zamandan beri haber alınamayan bir kimsenin ölümü hakkında kuvvetli olasılık varsa,61,55,3
+33,Gaiplik kararının istenebi lmesi için,58,50,4
+34,Gaipliğine karar verilecek kişi,25,25,2
+35,İl,41,41,3
+36,Kişisel durum,23,22,3
+37,Kişisel durum sicili,55,49,4
+38,Kişisel durum sicilinin tutulmasından doğan zararlar,31,27,3
+39,Mahkeme kararı olmadıkça,13,13,2
+40,Cinsiyetini değiştirmek isteyen kimse,86,76,4
+41,Doğumlara ilişkin bildirimler ve kimliği bilinmeyen bulunmuş çocuklar hakkındaki işlemler ilgili kanun hükümlerine göre yapılır,60,50,2
+43,Ölümlere ilişkin bildirimler ilgili kanun hükümlerine göre yapılır,13,13,2
+44,Bir kimse,77,69,5
+45,Gaiplik kararı,14,14,2
+46,Tescile esas olan bir bildirimin doğru olmadığının tespit edilmesi veya kime ait olduğu bilinmeyen cesedin kimliğinin belli olması ya da gaiplik kararının kaldırılması sebepl eriyle zorunlu olan değişiklikler,47,45,2
+47,Başlıbaşına bir varlığı olmak üzere örgütlenmiş kişi toplulukları ve belli bir amaca özgülenmiş olan bağımsız mal toplulukları,43,34,3
+48,Tüzel kişil er,26,26,2
+49,Tüzel kişiler,17,17,2
+50,Tüzel kişinin iradesi,31,29,4
+51,Tüzel kişinin yerleşim yeri,22,22,2
+52,Sona eren tüzel kişinin kişiliği,19,18,2
+53,Tüzel kişinin malvarlığının tasfiyesi,20,20,2
+54,Tüzel kişinin malvarlığı,63,51,4
+55,Kamu tüzel kişileri ile ti caret şirketleri hakkındaki kanun hükümleri saklıdır,18,18,2
+56,Dernekler,43,39,3
+57,Herkes,43,37,4
+58,Her derneğin bir tüzüğü bulunur,45,40,5
+59,Dernekler,34,31,3
+60,Kuruluş bildirimi ve belge lerin doğruluğu ile dernek tüzüğü,121,90,6
+61,,6,6,1
+62,,48,45,3
+63,Hiç ki mse,17,16,2
+64,Fiil ehliyetine sahip bulunan her gerçek kişi ile tüzel kişiler,50,48,4
+65,Üyelik için kanunda veya tüzükte aranı lan n itelikleri sonradan kaybedenlerin dernek üyeliği kendiliğinden sona erer,18,18,2
+66,Hiç kimse,63,47,7
+68,Dernek üyeleri eşit haklara sahiptirler,120,88,7
+69,Her üyenin genel kurulda bir oy hakkı vardır,25,22,3
+70,Üyelerin ödenti verme borcu tüzükle düzenle nir,45,43,5
+71,Üyeler,30,30,3
+72,Derneğin zorunlu organları,36,29,4
+73,Genel kurul,17,17,2
+74,Genel kurul,30,27,3
+75,Genel kurul,48,35,3
+76,Bütün üyelerin bir araya gelmeksizin yazılı katılımıyla alınan kararlar ile dernek üyelerinin tamamının kanunda yazılı çağrı usulüne uymaksızın bir araya geler ek aldığı kararlar geçerlidir,36,31,3
+77,Genel kurul,39,33,4
+78,Genel kurul toplantıları,69,62,5
+79,Genel kurul toplantısının açılışından sonra,102,76,6
+80,Genel kurul,45,36,3
+81,Genel kurul kararları,31,26,3
+82,Hiçbir dernek üyesi,40,36,3
+83,Toplantıda hazır bulunan ve kanuna veya tüzüğe aykırı olarak alınan genel kurul kararlarına katılmayan her üye,76,57,4
+84,Yönetim kurulu,62,52,4
+85,Yönetim kurulu,32,28,3
+86,Denetim kurulu,45,35,3
+87,Dernekler,67,56,3
+88,Genel kurul,13,13,2
+89,Derneğin amacı,37,34,3
+90,Dernekler,50,47,4
+91,,30,26,2
+92,,32,29,2
+93,Türkiye,28,28,3
+94,Dernekler,98,69,5
+95,Her şubede genel kurul ve yönetim kurulu ile denetim kurulu veya denetçi bulunması zorunludur,35,31,3
+96,Federasyonlar,43,40,4
+97,Konfederasyonlar,44,41,4
+98,Dernekler,44,39,4
+99,Dernek gelirleri,22,20,2
+100,Kamuya yararl ı der nekle r ve özel kanunlarla kurulan dernekler hakkındaki özel hükümler saklıdır,20,18,2
+101,Vakıflar,83,67,5
+102,Vakıf kurma iradesi,135,103,8
+104,Tesciline karar verilen vakıf,74,56,5
+105,Özgülenen malların mülkiyeti ile haklar,44,42,4
+106,Vakıf senedinde vakfın adı,23,21,2
+107,Vakıf senedinde vakfın amacı ile bu amaca özgülenen mal ve haklar yeterince belirlenmiş ise,100,81,4
+108,Vakfedenin mirasçıları ile alacaklılarının,22,22,2
+109,Vakfın bir yönetim organının bulunması zorunludur,40,39,4
+110,Çalıştırılanlara ve işçilere yardım vakıflarının yöneticileri,126,110,6
+111,Vakıfların,53,43,3
+112,Haklı sebepler varsa mahkeme,49,42,3
+113,Durum ve koşullardaki değişmeler yüzünden vakıf senedinde yazılı amaca bağlı kalınması vakfedenin arzusuna açıkça uymayacak h,112,90,6
+114,Yönetim organı her takvim yılının ilk üç ayı içinde vakfın bir önceki yıla ait malvarlığı durumunu ve çalışmalarını bir rapor h,35,33,2
+115,İçişleri Bakanlığı,40,38,3
+116,Amacın gerçekleşmesi olanaksız h,54,47,3
+117,Vakıfların malları üzerinde zilyetlik yoluyla kazanma hükümleri uygulanmaz,53,46,4
+118,Nişanlanma,21,20,3
+119,Nişanlılık,33,31,3
+120,Nişanlılardan biri haklı bir sebep olmaksızın nişanı bozdu ğu veya nişan taraflardan birine yükletilebilen bir sebeple bozulduğu takdirde,74,59,4
+121,Nişanın bozulması yüzünden kişilik hakkı saldırıya uğrayan taraf,26,26,2
+122,Nişanlılık evlenme dışındaki bir sebeple sona ererse,42,39,4
+123,Nişanlılığın sona ermesinden doğan dava hakları,26,25,2
+124,Erke k veya kadın onyedi yaşını doldurmadıkça evlenemez,41,36,4
+125,Ayırt etme gücüne sahip olmayanlar evlenemez,13,13,2
+126,Küçük,9,9,2
+127,Kısıtlı,9,9,2
+128,H,26,25,2
+129,Aşağıdaki kimseler arasında evlenme yasaktır,60,44,2
+130,Yeniden evlenmek isteyen kimse,16,16,2
+131,Gaipliğine karar verilen kişinin eşi,42,35,4
+132,Evlilik sona ermişse,40,38,4
+133,Akıl hastaları,24,23,2
+134,Birbiriyle evlenecek erkek ve kadın,31,29,3
+135,Başvuru,11,11,2
+136,Erkek ve k adınd an he r biri,52,47,2
+137,Evlendirme memuru,54,48,4
+138,Evleneceklerden her biri evlendirme memurunun ret kararına karşı mahkemeye başvurabilir,44,41,4
+139,Evlendirme memuru,45,37,3
+140,Evlenme k oşullarının bulunmadığının anlaşılması veya belgelerin verilmesinden başlayarak altı ayın geçmesi h,22,22,2
+141,Evlenme töreni,54,49,3
+142,Evlendirme memuru,65,51,7
+144,Evlenme işlemi,26,24,2
+145,Aşağıdaki h,51,37,2
+146,Mutlak butlan davası,23,21,3
+147,Sona ermiş bir evliliğin mutlak butlanı Cumhuriyet savcısı tarafından re,88,72,4
+148,Evlenme sırasında geçici bir sebeple ayırt etme gücünden yoksun olan eş,17,17,2
+149,Aşağıdak i durumlarda eşlerden biri evlenmenin iptalini dava edebilir,42,39,2
+150,Aşağıdaki durumlarda eşlerden biri evlenmenin iptalini dava edebilir,41,37,2
+151,Kendisinin veya yakınlarından birinin hayatı,31,29,2
+152,İptal davası açma hakkı,32,30,2
+153,Küçük veya kısıtlı,49,44,3
+154,Kadının bekleme süresi b itmed en evlenmesi,15,15,2
+155,Evlendirmeye yetkili memur önünde yapılmış olan bir evliliğin kanunun diğer şekil kurallarına uyulmaması sebebiyle butlanına karar verilemez,24,24,2
+156,Batıl bir evlilik ancak h,27,25,3
+157,Mahkemece butlanına kar ar ve rilen bir evlilikten doğan çocuklar,33,29,3
+158,Evlenmenin butlanına karar verilirse,35,35,3
+159,Evlenme nin butlanını dava etme hakkı mirasçılara geçmez,47,45,4
+160,Evlenmenin butlanı davasında,68,58,5
+162,Eşlerden her biri diğeri tarafından hayatına kastedilmesi veya kendisine pek kötü davranılması ya da ağır derecede onur kırıcı bir davranışta bulunulması sebebiyle boşanma davası açabilir,61,55,4
+163,Eşlerden biri küçük düşür ücü b ir suç işler veya haysiyetsiz bir hayat sürer ve bu sebeplerden ötürü onunla birlikte yaşaması diğer eşten beklenemezse,32,31,2
+164,Eşlerden biri,158,118,7
+165,Eşlerden biri akıl hastası olup da bu yüzden ortak hayat diğer eş için çekilmez h,37,35,2
+166,Evlilik birliği,194,149,10
+167,Boşanma davası açmaya hakkı olan eş,14,12,2
+168,Boşanma veya ayrılık davalarında yetkili mahkeme,26,25,2
+169,Boşanma veya ayrılık davası açılınca h,37,32,2
+170,Boşanma sebebi ispatlanmış olursa,36,28,4
+171,Ayrılığa bir yıldan üç yıla kadar bir süre için karar verilebilir,26,23,3
+172,Süre bitince ayrılık durumu kendiliğinden sona erer,41,39,4
+173,Boşanma h,71,60,5
+174,Mevcut veya beklenen menfaatleri boşanma yüzünden zedelenen kusursuz veya daha az kusurlu taraf,47,36,3
+175,Boşanma yüzünden yoksulluğa düşecek taraf,140,100,8
+177,Boşanmadan sonra açılacak nafaka davalarında,13,12,2
+178,Evliliğin boşan ma se bebiyle sona ermesinden doğan dava hakları,24,22,2
+179,Mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin hüküm ler uygulanır,13,13,2
+180,Ayrılığa karar verilirse mahkeme,24,23,2
+181,Boşa nan e şler,63,57,3
+182,Mahkeme boşa nma v eya ayrılığa karar verirken,113,91,6
+183,Ana veya babanın başkasıyla evlenmesi,35,32,2
+184,Boşanmada yargılama,89,80,7
+185,Evlenmeyle eşler arasında evlilik birliği kurulmuş olur,43,37,4
+186,Eşler oturacakları konutu birlikte seçerler,23,21,4
+187,,21,21,2
+188,Eşlerden her biri,58,48,3
+189,Birliği temsi l yet kisinin kullanıldığı h,45,36,4
+190,Eşlerden biri birliği temsil yetkisini aşar veya bu yetkiyi kullanmada yetersiz kalırsa h,61,50,4
+191,Temsil yetkisinin kaldırılmasına veya sınırlanmasına ilişkin karar,34,30,3
+192,Eşlerden her biri,37,32,3
+193,Kanunda aksine hüküm bulunmadıkça,20,19,2
+194,Eşlerden biri,92,69,5
+195,Evlilik birliğinden doğan yükümlülüklerin yerine getirilmemesi veya evlilik birliğine ilişkin önemli bir konuda uyuşmazlığa düşülmesi h,78,71,5
+196,Eşlerden birinin istemi üzerine h,48,47,4
+197,Eşlerden biri,99,83,5
+198,Eşlerden biri,24,24,2
+199,Ailenin ekonomik varlığının korunması veya evlilik birliğinden doğan mal,57,51,4
+200,Koşullar değiştiğinde h,22,22,2
+201,Evlilik birliğinin korunmasına yönelik önlemler konusunda yetkili mahkeme eşlerden herhangi birinin yerleşim yeri mahkemesid ir,80,57,5
+202,Eşler a rasın da ed inilmiş mallara katılma rejiminin uygulanması asıldır,29,26,3
+203,Mal rejimi sözleşmesi,26,25,3
+204,Mal rejimi sözleşmesi,23,23,3
+205,Mal rejimi sözleşmesi,43,38,4
+206,Haklı bir sebep varsa h,114,84,4
+207,Yetkili mahkeme eşlerden herhangi birinin yerleşim yeri mahkemesidir,13,13,2
+208,Eşler,42,38,3
+209,Mal ortaklığını kabul e tmiş olan eşlerden birinin ifl,18,17,2
+210,Mal ortaklığını kabul etmiş eşlerden birine karşı icra takibinde bulunan alacaklı,38,37,4
+211,Alacaklı tatmin edildiği takdirde eşlerden birinin istemi üzerine h,30,29,3
+212,Mal ayrılığına geçildiği takdirde,24,23,2
+213,Mal rejiminin kurulması,52,48,3
+214,Eşler veya mirasçılar arasında bir mal rejiminin tasfiyesine ilişkin davalarda,56,45,2
+215,Eşlerden birinin açık veya örtülü olarak mallarının yönetimini diğer eşe bırakması h,21,21,2
+216,Eşlerden her biri,36,34,3
+217,Mal rejimi,53,52,4
+218,Edinilmiş mallara katılma rejimi,17,14,2
+219,Edinilmiş mal,115,87,4
+221,Eşler,40,31,3
+222,Belirli bir ma lın e şlerd en birine ait olduğunu iddia eden kimse,45,42,4
+223,Her eş,43,41,3
+224,Eşlerden her biri kendi borçlarından bütün malvarlığıyla sorumludur,21,20,2
+225,Mal rejimi,47,38,3
+226,Her eş,53,51,4
+227,Eşlerden biri diğerine ait bir malın edinilmesine,99,83,4
+228,Eşlerin kişisel malları ile edi nilmi ş malları,82,64,3
+229,Aşağıda sayılanlar,75,64,3
+230,Bir eşin kişisel mallara ilişkin borçları edinilmiş mallardan veya edinilmiş mallara ilişkin borç ları kişisel mallarından ödenmiş ise,78,58,5
+231,Artık değer,37,36,3
+232,Mal rejiminin tasfiyesinde malların sürüm değerleri esas alınır,14,14,2
+233,Bir eşin malik olarak bizzat işletmeye devam ettiği veya sağ kalan eş ya da altsoyundan b irinin kendisine bir bütün olarak özgülenmesini istemeye haklı olduğu bir tarımsal işletme için değer artışından alacağı pay ve katılma alacağı,84,69,4
+234,Özel h,39,36,3
+235,Mal rejiminin sona erdiği sırada mevcut olan edinilmiş mallar,35,34,3
+236,Her eş veya mirasçıları,47,43,4
+237,Artık değere katılmada mal rejimi sözleşmesiyle başka bir esas kabul edilebil ir,33,32,3
+238,Mahkemece evliliğin iptal veya boşanma sebebiyle sona erdirilmesine veya mal ay rılığına geçilmesine karar verilmesi h,46,43,2
+239,Katılma alacağı ve değer artış payı ayın veya para olarak ödenebilir,81,71,5
+240,Sağ kalan eş,115,85,6
+241,Tasfiye sırasında,85,76,4
+242,Mal ayrılığı rejiminde eşlerden her biri,22,22,2
+243,İspat,29,25,2
+244,Eşlerden her biri,18,18,2
+245,Belirli bir malın eşlerden birine ait olduğunu iddia eden kimse,30,26,3
+246,Eşlerden her biri,20,19,2
+247,Mal rejimi,49,39,3
+248,Her eş,40,38,3
+249,Eşlerden biri diğerine ait olup,56,49,3
+250,Eşlerden biri tarafından paylaşmalı mal ayrılığı rejiminin kurulmasından sonra edinilmiş olup ailenin ortak kullanım ve yararlanmasına özgülenmiş mallar ile ailenin ekonomik gelec eğini güvence altına almaya yönelik yatırımlar veya bunların yerine geçen değerler,77,68,4
+251,Eşlerden biri,76,64,4
+252,Zina veya hayata kast nedeniyle boşanma h,22,21,2
+253,Paylaştırmanın ayın olarak yapılması asıldır,82,77,7
+254,Evliliğin iptal veya boşanma kararıyla sona erdirilmesi h,176,126,8
+255,Eşlerden birinin ölümü h,109,88,5
+256,Mal ortaklığı rejimi,17,13,2
+257,Genel mal ortaklığında eşlerin kanun gereğince kişisel mal sayılanlar dışındaki malları ile gelirleri o rtaklık mallarını oluşturur,44,38,4
+258,Eşler,24,23,3
+259,Eşler,39,36,3
+260,Kişisel mal lar,55,48,4
+261,Bir eşin kişisel malı olduğu ispatlanmadıkça tüm malvarlığı değerleri ortaklık malı sayılır,22,19,2
+262,Eşler,27,26,3
+263,Olağan yönetim dışında kalan konularda eşler,51,48,3
+264,Eşlerden biri,29,26,2
+265,Eşlerden biri,51,49,3
+266,Mal ortaklığının sona ermesi h,62,51,5
+268,Eşlerden her biri,67,52,2
+269,Her eş,27,27,3
+270,Mal rejimi eşler arasındaki borçların muaccel olmasını önlemez,55,50,4
+271,Mal rejimi eşlerden birinin ölümü,61,50,4
+272,Eşlerden birine sosyal güvenlik veya sosyal yardım kurumlarınca yapılmış olan toptan ödemeler veya iş gücünü n kay bı dolayısıyla ödenmiş olan tazminat,76,62,2
+273,Bir eşin kişisel mallara ilişkin borçları,45,35,4
+274,Bir eşin kişisel malı veya ortaklık malıyla bir başka mal kesimine giren malvarlığı değerinin edinilmesi,35,32,2
+275,Mal rejimi sona erince,23,22,2
+276,Eşlerden birinin ölümü veya diğer bir mal rejiminin kabulü sebebiyle mal ortaklığının sona ermesi h,40,35,4
+277,Boşanma veya evliliğin iptali sebebiyle ya da kanun veya mahkeme kararı gereğince mal ayrılığına geçiş h,61,56,4
+278,Mal ortaklığının eşlerden birinin ölümüyle sona ermesi h,30,30,2
+279,Eşlerin b irlikte yaşadıkları konut veya ev eşyası ortaklık mallarına dahil ise,73,63,4
+280,Bir eş,22,20,2
+281,Diğer h,31,26,2
+282,Çocuk ile ana arasında soybağı doğumla kurulur,36,26,4
+283,Soybağına ilişkin davalar,19,19,2
+284,Soybağına ilişkin davalarda,73,65,4
+285,Evlilik devam ederken veya evliliğin sona ermesinden başlayarak üçyüz gün içinde doğan çocuğun babası kocadır,136,86,8
+288,Çocuk,41,40,3
+289,Koca,64,54,4
+290,Çocuk evliliğin sona ermesinden başlayarak üçyüz gün içinde doğmuş ve ana da bu arada yeniden evlenmiş olursa,39,35,3
+291,,94,77,4
+292,Evlilik dışında doğan çocu k,23,21,2
+293,Eşler,128,87,10
+294,Ana ve babanın yasal mirasçıları,62,54,5
+295,Tanıma,47,42,4
+296,Beyanda bulunulan nüfus memuru,43,35,3
+297,Tanıyan,25,23,3
+298,Ana,29,27,3
+299,Davacı,41,37,3
+300,Tanıyanın dava hakkı,127,84,8
+302,Davalının,69,60,4
+303,Babalık davası,76,63,6
+304,Ana,67,62,4
+305,Bir küçüğün evl,42,34,3
+306,Eşler,84,69,4
+307,Evli olmayan kişi otuz yaşını doldurmuş ise tek başına evl,67,54,3
+308,Evl,49,36,4
+309,Evl,40,31,4
+310,Rıza,34,29,4
+311,Aşağıdaki h,37,36,2
+312,Küçük,85,69,4
+313,,95,72,5
+314,Ana ve babaya ait olan haklar ve yükümlülü kler evl,182,132,12
+315,Evl,66,55,5
+316,Evl,85,67,4
+317,Yasal sebep bulunmaksızın rıza alınmamış sa,27,27,2
+318,Evl,46,43,3
+319,Dava hakkı,42,38,4
+320,Küçüklerin evl,31,28,3
+321,Çocuk,27,24,3
+322,Ana,36,28,2
+323,Ana ve babadan her biri,22,22,2
+324,Ana ve babadan her biri,151,106,8
+325,Olağanüstü h,37,36,3
+326,Kişisel ilişki kurulmasıyla ilgili bütün düzenlemelerde çocuğun otu rduğu yer mahkemesi de yetkilidir,54,49,4
+327,Çocuğun bakımı,53,45,2
+328,Ana ve babanın bakı m borcu,44,39,3
+329,Küçüğe fiilen bakan ana veya baba,48,37,5
+330,Nafaka miktarı,60,54,5
+331,Durumun değişmesi h,19,19,2
+332,Nafaka davası açılınca h,33,32,3
+333,Babalık davası ile birlikte nafaka istenir ve h,27,26,2
+334,Ana ve baba nafaka yük ümlülü klerini sürekli olarak ve ısrarla yerine getirmezlerse ya da kaçma hazırlığı içinde bulundukları,53,47,2
+335,Ergin olmayan çocuk,39,31,4
+336,Evlilik devam ettiği sürece ana ve baba ve l,49,44,4
+337,Ana ve baba evli değilse vel,34,31,3
+338,Eşler,46,45,2
+339,Ana ve baba,71,54,6
+340,Ana ve baba,64,52,4
+341,Çocuğun din,29,26,4
+342,Ana ve baba,43,42,4
+343,Vel,31,27,3
+344,Vel,39,31,2
+345,Çocuk ile ana veya baba arasında ya da ana ve babanın menfaatine olarak çocuk ile üçüncü kişi arasında yapılacak bir hukuk,42,35,2
+346,Çocuğun menfaati ve gelişmesi tehlikeye düştüğü takdirde,116,89,6
+348,Çocuğun korunma sına ilişkin diğer önlemlerden sonuç alınamaz ya da bu önlemlerin yetersi z olacağı önceden anlaşılırsa,92,78,5
+349,Vel,38,34,3
+350,Vel,36,32,4
+351,Durumun değişmesi h,41,41,3
+352,Ana ve baba,38,35,3
+353,Evlilik sona erince vel,31,31,2
+354,Ana ve baba,16,16,2
+355,Ana ve baba,36,32,3
+356,Olağan ihtiyaçlar gerektirdiği ölçüde sermaye b içiminde ödemeler,49,41,3
+357,Ana ve baba,91,78,4
+359,Ana ve baba tarafından bir meslek veya sanat ile uğraşması için çocuğa kendi malından verilen kısmı n veya kendi kişisel kazancının yönetimi ve bunlardan yararlanma hakkı çocuğa aittir,55,45,3
+360,Ana ve baba,54,47,3
+361,Çocuğun mallarının tehlikeye düş mesi başka bir şekilde önlenemiyo rsa h,65,55,4
+362,Ana ve baba,25,22,2
+363,Ana ve baba,54,49,4
+364,Herkes,37,34,4
+365,Nafaka davası,92,83,7
+366,Korun maya muhtaç kişilerin bakımı,28,27,3
+367,Aile h,62,52,3
+368,Birlikte yaşayan kimseler evin düzenine t,54,50,5
+369,Ev başkanı,82,66,4
+370,Ana ve baba veya büyük ana ve baba ile birl ikte y aşayan ve emeklerini ya da gelirlerini aileye özgüleyen ergin altsoylar,41,36,3
+371,Altsoy,56,48,5
+372,Aile bireylerinin eğitim ve öğrenimleri,61,55,4
+373,Hısımlar,42,36,3
+375,Aile malları ortaklığı,95,81,7
+377,Aile mall arı ortaklığı,27,26,3
+378,Ortaklar,43,37,4
+379,Ortaklar,47,43,4
+380,Aşağıdaki h,88,75,4
+382,Ortaklardan birinin ölümü h,36,33,3
+383,Ortaklık mallarının payla şılması veya ayrılan ortağ ın payının hesaplanması,35,30,3
+384,Ortaklar,58,51,3
+385,İşletme ve temsili üzerine alan ortak,78,68,4
+386,Konutlar,17,17,2
+387,Aile yurdu h,55,51,3
+388,Alacaklılar ve aile yurdu kurulması yüzünden h akları nın ze delenmesi ihtimali bulunan kişiler,43,42,3
+389,Aile yurdu h,77,65,4
+390,Bir taşınm azın aile y urdu h,35,33,2
+391,Aile yurdu h,33,29,3
+392,Malikin,29,27,2
+393,Malik borçlarını ödemede acze düşerse,42,39,4
+394,Malikin ölümünden sonra aile yurdunun devam edebilmesi,35,32,3
+395,Malik sağlığında yurda son verebilir,62,57,4
+396,Vesayet organları,15,12,2
+397,Kamu vesayeti,27,20,3
+398,Vesayet altındaki kişinin menfaatinin haklı gösterdiği,38,34,3
+399,Özel vesayet,28,27,2
+400,Aile meclisi,31,29,3
+401,Aile meclis i üyeleri,21,20,3
+402,Aile meclisi görevini yapmadığı veya vesayet altındaki kişinin menfaati gerektirdiği takdird e,31,29,2
+403,Vasi,53,48,4
+404,Vel,43,41,3
+405,Akıl hastalığı veya akıl zayıflığı sebebiyle işlerini göremeyen vey a koru nması ve bakımı için kendisine sürekli yardım gereken ya da başkalarının güvenliğini tehlikeye sokan her ergin kısıtlanır,67,60,3
+406,Savurganlığı,143,114,7
+408,Yaşlılığı,27,27,2
+409,Bir kimse dinl enilmeden savurganlığı,120,103,9
+411,Vesayet işlerind e yetk i küçüğün v eya kısıtlının yerleşim yerindeki vesayet dairelerine aittir,17,15,2
+412,Vesayet makamının izni olmadıkça vesayet altındaki kişi yerleşim yerin i değiştiremez,38,33,4
+413,Vesayet makamı,50,41,4
+414,Haklı sebepler engel olmadıkça,41,39,3
+415,Haklı sebepler engel olmadıkça,22,22,2
+416,Vesayet altına alına n kims enin yerleşim y erinde oturanlardan vasiliğe atananlar,30,29,3
+417,Aşağıdaki kişiler vasiliği kabul etmeyebilirle r,55,50,2
+418,Aşağıdaki kişiler vasi olamazlar,38,35,2
+419,Vesayet makamı,40,38,4
+420,Vesayet işleri zorunlu kıldığı takdirde vesayet makamı,39,35,3
+421,Atama kararı vasiye hemen tebliğ olunur,74,56,5
+422,Vasiliğe atanan kişi,69,61,4
+423,Vasiliğe atanan kimse,25,25,2
+424,Denetim makamı,30,28,3
+425,Atama kararı kesinleşince vesayet makamı vasinin göreve başlaması için gerek li işlemleri yapar,25,25,2
+426,Vesayet makamı,67,53,2
+427,Vesayet makamı,105,85,2
+428,İsteğe bağlı kısıtlama se beplerinden biri varsa,20,19,2
+429,Kısıtlanması için yeterli se bep bu lunmamakla beraber koru nması bakımından fiil ehliyetinin sınırlanması gerekli görülen ergin bir kişiye a şağıdaki işlerde görüşü alınmak üzere bir yasal danışman atanır,90,78,3
+430,Temsil kayyımı,35,29,3
+431,Vasinin atanması usulüne ilişkin kurallar,37,33,3
+432,Akıl hastalığı,83,72,5
+433,Yerleştirme veya alık oymaya karar verme yet kisi,83,62,4
+435,Kuru ma yerleştirilen kişi veya yakınları,35,35,3
+436,Koruma amacıyla özgürlüğün kısıtlanması,224,163,11
+437,H,74,58,5
+438,Vasiliğe atanma kararının ke sinleşmesi üzerine vasi ile v esayet makamının görevlendireceği bir kişi tarafında n,76,64,5
+439,Kıymetli evrak,28,27,1
+440,Vesayet altındaki kişinin menfaati ger ektirirse değerli şeylerin dışındaki taşınırlar,58,52,5
+441,Vesayet altın daki kişinin k endisi veya malvarlığının yönetimi için gerekli olmayan paralar,44,40,3
+442,Yeteri kadar güven verici olmayan yatırımlar,28,27,3
+443,Vesayet a ltındaki kişinin malvarlığı içinde ticar,29,28,2
+444,Taşınmazların satışı,126,100,6
+446,Küçüklerin koruma amacıyla bir kuruma yerleştirilmesine vasinin başvurusu üzerine vesayet makamı veya gecikmesinde sakınca bulunan h,57,52,4
+447,Vasi,43,41,3
+448,Vesayet dairelerinin yetkilerine ilişkin hükümler saklı kalmak kaydıyla vasi,21,20,2
+449,Vesaye t altındaki kişi adına kefil olmak,19,17,2
+450,Vesayet altındaki kişi görüşlerini oluştur ma ve açıklama yeteneğine sahipse,43,38,3
+451,Ayırt etme gücüne sahip olan vesa yet al tındaki kişi,51,45,3
+452,Vasinin onamadığı işlemlerde taraflar dan her biri verdiğini geri isteyebili r,62,57,3
+453,Vesayet altındaki kişiye vesayet makamı tarafından bir meslek veya sanatın yürütülmesi iç in izin verilmiş ise,45,43,2
+454,Vasi,59,52,4
+455,Vesayet altındaki kişi,22,22,2
+456,Vasi,29,26,4
+457,Vasi,49,48,3
+458,Bir kimseye kayyım atanması onun fiil ehliyetini etkilemez,30,29,4
+459,Belli bir iş için göre vlendi rilmiş olan kayyı m,17,17,2
+460,Kayyım bir malvarlığının yönetimi ve gözetimi ile görevlendirilmiş ise,52,48,3
+461,Ayırt etme gücüne sahip olan vesayet altındaki kişi ve her ilgili,41,35,3
+462,Aşağıdaki h,148,106,2
+463,Aşağıdaki h,86,66,2
+464,Vesayet makamı,41,34,3
+465,Kanunen gerektiği h,32,29,2
+466,Vesayet organları ve v esayet işleriyle görevl endirilmiş olan diğer kişiler,25,24,2
+467,Vasi,25,25,3
+468,Devlet,58,53,4
+469,Devletin vesayet dairelerinde görevli kişilere karşı rücu davasına bakmay a,50,41,3
+470,Küçük üzerindeki vesayet,31,30,3
+471,,89,72,3
+472,Diğer kısıtlılar üzerindeki vesayet,37,34,4
+473,Kısıtlama il,24,22,3
+474,Akıl hastalığı veya akıl zayıflığı yüzünden kısıtlanmış olan kişi üzerindeki vesayeti n kald ırılmasına,43,39,2
+475,Savurganlığı,42,38,2
+476,Kendi isteğiyle kısıtlanmı ş olan kişi üzerindeki vesa yetin kaldırılması,26,26,2
+477,Temsil kayyımlığı,40,34,4
+478,Atamanın il,29,27,2
+479,Vasilik görevi,20,18,2
+480,Vasilik görevi,18,18,2
+481,Vasi,39,33,3
+482,Görevi sona eren vasi,19,19,2
+483,Vasi,52,46,3
+484,Ayırt etme gücüne sa hip olan vesayet altındaki kişi veya her ilgili,37,34,3
+485,Vesayet makamı,29,26,3
+486,Gecikmesinde tehlike bulunan h,34,34,2
+487,Vesay et makamı,24,24,2
+488,İlgilil er,41,39,3
+489,Görevi sona eren vasi,36,34,2
+490,Son rapor ve k esin hesap belli zamanlarda verilen rapor ve hesaplar gibi vesaye t maka mı tarafından incelenir ve onaylanır,26,22,2
+491,Son rapor ve kesin h esap onaylandıktan ve malvarlığı vesayet altındaki kişiye,79,61,4
+492,Sorumlu vasi ve kayyıma karşı açılacak tazmin at davası kesin hesabın tebliğ edildiği tarihten başlayarak bir y ıl geç mekle zamanaşımına uğrar,76,55,5
+493,Olağa n zama naşımı süresi işlemeye başlamadan önce zarar gören tarafından bilinmesi veya anlaşılması olanağı b ulunmayan bir hesap yanlışlığına veya bir sorumluluk sebebine dayanan tazminat da vası,60,52,3
+494,Vesayet altındaki kişinin vasi veya Devlete karşı alaca kları imtiyazlı alacaktır,27,26,2
+495,Mirasbırakanın birinci derece miras çıları,29,29,4
+496,Altsoyu bulunmayan mirasbırakanın mirasçıları,48,43,4
+497,Altsoyu,137,79,7
+498,Evlilik dışında doğmuş ve soybağı,25,24,1
+499,Sağ kalan eş,62,43,2
+500,Evl,30,28,4
+501,Mirasçı bırakmaksızın öl en kimsenin mirası Devlete geçer,23,22,2
+502,Vasiyet yapabilmek için ayırt etme gücüne sahip ve onbeş yaşını doldu rmuş olmak gerekir,18,18,2
+503,Miras sözleşmesi yapabilmek için ayırt etme gücüne sahi p ve e rgin olmak,18,18,2
+504,Mirasbırakanın yanılma,73,60,4
+505,,41,40,3
+506,Saklı pay aşağıdaki oranlardan ibarettir,58,45,2
+507,Tasa rruf edilebilir kısım,45,41,2
+508,Mirasbırakanın sağlararası karşılıks ız kaz andırm aları,19,19,2
+509,Mirasbırakanın kendi ölümünde ödenmek üzere üçüncü k işi lehine hayat sigortası sözleşmesi yapması veya böyle bir kişi yi son radan lehdar olarak tayin etmesi ya da sigortacıya karşı ol an istem hakkını sağlararası veya ölüme bağlı tasarrufla karşılıksız olarak üçüncü kişiye devretmesi h,58,54,2
+510,Aşağıdaki durumlarda mirasbırakan,45,40,2
+511,Mirasçılıkt an çıkarılan kimse,56,43,4
+512,Mirasçılıktan çıkarma,70,56,4
+513,Mirasbırakan,66,55,4
+514,Mirasbırakan,33,32,3
+515,Mirasbırakan,54,47,5
+516,Mirasbırakan,37,30,3
+517,Mirasbırakan,91,68,4
+518,Bırakılan beli rli mal,55,43,3
+519,Tereke mevcu dunu veya tasarrufu yerine getirme yükümlüsüne yapılan kazandırmayı ya da saklı payı zedeleyen tasarrufl arın orantılı olarak tenkisi istenebilir,77,61,4
+520,Mirasbırakan,39,37,3
+521,Mirasbırakan,29,29,4
+522,Tasarrufta geçiş anı belirtilmemişse miras,52,44,4
+523,Önmirasçıya geçen mirasın sulh mahkemesince de fteri tutulur,54,49,5
+524,Önmirasçı,19,19,3
+525,Artmirasçı,44,40,4
+526,Mirasbırakan,31,29,3
+527,Mirasbırakan,83,63,6
+529,Mirastan feragat sözleşmesi belli bir kişi lehin e yapılmış olup bu kişinin herhangi bir sebeple m irasçı olamaması h,55,37,3
+530,Mirasın açılması anında tereke,51,46,2
+531,Vasiyet,19,18,2
+532,Resm,30,27,3
+533,Mirasbırakan,36,34,5
+534,Vasiyetnameye tarih ve imza konul duktan hemen sonra mirasbırakan,52,48,4
+535,Mirasbırakan vasiyet nameyi bizzat okuyamaz veya imzalayamazsa,69,54,3
+536,Fiil ehliyeti bulunmayanlar,76,58,4
+538,El yazılı vasiyetnamenin yapıldığı yıl,47,42,3
+539,Mirasbırakan,67,58,4
+540,Mirasbırakan tarafından görevlendirilen tanıklardan biri,126,107,5
+541,Mirasbırakan için sonradan diğer şekillerde vasiyetname yapm a olanağı doğarsa,28,27,2
+542,Mirasbıra kan,29,27,3
+543,Mirasbırakan,87,74,6
+545,Miras sözleşmesinin g eçerli olması için resm,38,36,2
+546,Miras sözleşmesi,62,54,4
+547,Miras sözleşmesi gereğinc e sağl araras ı edimleri ist eme hakkı bulunan taraf,33,33,2
+548,Mirasçı atan an vey a kendi sine belirli mal bırakılan kişi mirasbırakanın ölümünde sağ değilse,50,48,3
+549,Miras sözleşmesi veya vasiyetnameyle yapılan ölüme bağlı ka zandırmalar,35,35,2
+550,Mirasbırakan,72,55,5
+551,Birden çok vasiyeti yerine getirme görevlisinin atanmış olması h,74,60,4
+552,Mirasbırakan,117,99,11
+553,Mirasbırakan taahhüt etmiş olmadıkça,49,48,4
+554,Vasiyeti yerine getirme görevlisinin gör evi,38,33,4
+555,Vasiyeti yerine getirme görevlisi,62,54,6
+556,Vasiyeti yerine getirme görevli si,31,30,2
+557,Aşağıdaki sebeplerle ölüme bağlı bir tasarrufun ip tali için dava açılabilir,48,38,2
+558,İptal davası,57,46,4
+559,İptal davası açma hakkı,59,48,3
+560,Saklı paylarının karşılığını alamayan mirasçılar,41,38,3
+561,Saklı pay sahibi mirasçılara ölüme bağlı tasarrufla yapılan ve tasarruf edilebilir kısmı aşan kazandırmaların onl arın saklı paylarını aşan kısmı orantılı olarak tenkise t,62,42,3
+562,Mirasbırakan,74,64,3
+563,Tenkis,64,51,3
+564,Değerinde azalma meydana gelmeksizin bölünmesine ol anak bulunmayan belirli bir mal vasiyeti tenkise t,76,61,4
+565,Aşağıdaki karşılıksız kazandırmalar,89,72,2
+566,Kendisine tenkise t,57,47,3
+567,Mirasbırakanın kendi ölümünde ödenmek üzere üçüncü kişi lehine hayat sigortası yaptığı veya böyle bir kişiyi lehdar olarak sonra belirlediği ya da sigortacıya karşı olan istem hakkını sağlararası veya ölüme bağlı tasarruf la karşılıksız olarak üçüncü kişiye devrettiği h,54,49,2
+568,Mirasbırakan,43,37,2
+569,Mirası artmirasçıya geçirme yükümlülüğü ile saklı pay ı zedelenen mirasçı,17,17,2
+570,Tenkis,49,42,3
+571,Tenkis davası açma hakkı,64,58,4
+572,Mirasbırakan,65,57,4
+573,Mirasbırakan,94,74,5
+575,Miras,26,24,3
+576,Miras,34,31,3
+577,Bu Kanuna göre mirasa ehil olmayanlar dışındaki herkes mirasçı olabileceği gibi,58,54,3
+578,Aşağıdaki kimseler,90,60,3
+579,Mirastan yoksunluk,24,20,3
+580,Mirasçı olabilmek için mirasbırakanın ölümü anında mirasa ehil olarak sağ olmak şarttır,31,28,3
+581,Vasiyet alacaklısı olabilmek için mirasbırakanın ölümü anında mirasa ehil olarak sağ olmak şarttır,33,30,3
+582,Cenin,15,13,3
+583,Mirasın açıldığı anda h enüz var olmayan bir kimseye artmirasçı veya art vasiyet alacaklısı olarak,122,96,6
+585,Gaip ortaya çıkarsa veya üstün hak sahibi olduklarını ileri sürenler bu sıfatlarını ispat ederlerse,49,45,3
+586,Ortada bulunma yan ve mirasın açıldığı anda sağ olup olmadığı ispat edilemeyen mirasçının miras payı resmen yönetilir,70,52,4
+587,Gaibin mirasçıları tereke mallarını teslim aldıktan sonra gaibe bir miras düşerse,53,42,3
+588,Sağ olup olmadığı bilinmeyen bir kimsenin malvarlığı veya ona düşen miras payı on yıl resmen yönetilirse ya da malvarlığı böyle yönetilenin yüz yaşını dolduracağı süre geçerse,194,151,8
+590,Aşağıdaki sebeplerden birinin gerçekleşmesi h,54,51,2
+591,Yazımı yapılan tereke mallarından gerekenler mühürlenir,74,66,7
+592,Aşağıdaki h,107,90,5
+593,Terekeyi resmen yöneten sulh h,200,165,4
+594,Mirasbırakanın mirasçısı bulunup bulunmadığı veya mirasçıların tamamı bilinmiyorsa,71,63,3
+595,Mirasbırakanın ölümünden sonra ele geçen vasiyetnamesin in,88,78,4
+596,Vasiyetname,68,64,5
+597,Mirasta hak sahibi olanların her birine gideri terekeye ait olmak üzere,38,34,3
+598,Başvurusu üzerine yasal mirasçı oldukları belirlenenlere,81,61,5
+599,Mirasçılar,71,56,5
+600,Vasiyet alacaklısı,90,75,5
+601,Kendisine bir intifa hakkı veya bir irat hakkı ya da be lli aralıklarla tekrarlanan diğer bir edim vasiyet edilen kimsenin istem hakkı,57,45,3
+602,Vasiyet alacaklısının dava hakkı,65,53,4
+604,Mirasçılar,44,38,3
+605,Yasal ve atanmış mirasçılar mirası reddedebilirler,26,26,3
+606,Miras,38,34,3
+607,Koruma önlemi olarak terekenin yazımı h,29,28,2
+608,Mirası reddetmeden ölen mirasçının ret hakkı kendi mirasçılarına geçer,129,93,9
+610,Yasal süre içinde mirası reddetmeyen mirasçı,74,65,4
+611,Yasal mirasçılardan biri mirası reddederse onun payı,65,59,4
+612,En yakın yasal mirasçıların tamamı tarafından reddolunan miras,33,31,3
+613,Altsoyun tamamının mirası reddetmesi h,16,16,2
+614,Mirasçılar,58,48,4
+615,Önemli sebeplerin varlığı h,25,25,2
+616,Vasiyet alacaklısının vasiyeti reddetmesi h,21,20,2
+617,Malvarlığı borcuna yetmeyen mirasçı,79,72,5
+618,Ödemeden,61,55,4
+619,Mirası reddetmeye hakkı olan her mirasçı,42,40,4
+620,Resm,82,72,6
+621,Sulh mahkemesi,77,73,6
+622,Resm,27,26,3
+623,İl,46,41,4
+624,Defter tutma süresince ancak zorunlu yönetim işle ri yapılabilir,29,29,3
+625,Resm,35,34,4
+626,Defteri inceleme süresi bittikten sonra her mirasçı,38,38,3
+627,Mirasçılardan her biri,48,39,3
+628,Resm,42,36,4
+629,Alacaklarını süresi içinde yazdırmayan alacaklılara karşı mirasçı,58,52,4
+630,Mirasbırakanın kefaletten doğan borçları defterde ayrı bir yere yazılır ve mirasçılar,46,45,2
+631,Mirasın De vlete geçmesi h,37,36,3
+632,Her mirasçı,42,34,4
+633,Mirasbırakanın alacaklarını elde edemeyeceklerinden inandırıcı sebeplerle kuşku duyan alacaklıları,52,48,3
+634,Resm,93,72,6
+635,Resm,85,71,5
+636,Mevcudu borçlarını ödemeye yetmeyen terekenin tasfiyesi,21,21,2
+637,Yasal veya atanmış mirasçı,57,54,4
+638,Miras sebebiyle istihkak davasının kabulü h,33,28,3
+639,Miras sebebiyle istihkak davası,62,54,3
+640,Birden çok mirasçı bulunması h,101,82,7
+641,Mirasçılar,48,40,3
+642,Mirasçılardan her biri,107,85,6
+643,Mirasın açıldığı tarihte,31,31,3
+644,Bir mirasçı,83,68,4
+645,Mirasb ırakanın ölümünde onunla birlikte yaşayan ve onun tarafından bakılan kimseler,32,31,2
+646,Yasal mirasçılar,48,44,4
+647,Mirasbırakan,56,51,4
+648,Açılmış mirasta bi r mirasçının payını devralmış veya haczettirmiş olan ya da elinde mirasçıya karşı alınmış borç ödemeden aciz belgesi bulunan alacaklı,41,39,2
+649,Kanunda aksine bir hüküm bulunmadıkça mirasçıla r,54,52,4
+650,Mirasçıla r,53,48,6
+651,Değerinde önemli azalma olmadan bölünemeyen tereke malı,63,53,5
+652,Eşlerden birinin ölümü h,104,83,5
+653,Mirasçılardan birinin karşı çıkması h,73,63,5
+654,Mirasb ırakanın bir mirasçıdaki alacağı,17,17,2
+655,Paylaşmada kendisine mirasbırakanın borçları için rehnedilmiş bir tereke malı düşen mirasçı,23,23,2
+656,Taşınmazların bölünmelerine il işkin kanun hükümleri saklıdır,13,13,2
+657,Taşınmazlar,24,20,3
+658,Mirasçılar özgülenme değeri üzerinde uyuşamazlarsa,21,21,2
+659,,5,5,1
+660,,7,7,1
+661,,8,8,1
+662,,7,7,1
+663,,8,8,1
+664,,7,7,1
+665,,9,9,1
+666,,5,5,1
+667,,4,4,1
+668,,9,9,1
+669,Yasal mirasçılar,57,56,3
+670,Mirasın açılmasından önce veya sonra mirasçılık sıfatını kaybeden mirasçıya ait geri verme yükümlülüğü,34,31,2
+671,Geri vermekle yükümlü olan mirasçı,38,35,3
+672,Yapılan kazandırma miras payını aştığı takdirde mirasçı,29,29,3
+673,Denkleştirme,74,60,5
+675,Olağan hediyeler ile evlenme sırasında yapılan geleneğ e uygun giderler denkleştirmeye t,57,52,4
+676,Mirasçılar arasında payların oluşturulması ve fiilen alınması veya aralarında yapacakları paylaşma sözleşmesi mirasçıları bağlar,48,43,4
+677,Terekenin tamamı veya bir kısmı üzerinde miras payının devri konusunda mirasçılar arasında yapılan sözleşm elerin geçerliliği yazılı şekle bağlıdır,55,50,4
+678,Mirasbırakanın katılması veya izni olmaksızın bir mirasçın ın henüz açılmamış bir miras hakkında diğer mirasçılar veya üçüncü bir kişi ile yapacağı s özleşmeler geçerli değildir,44,40,3
+679,Paylaşmanın tamamlanmasından sonra mirasçılar,74,64,4
+680,Borçlar Kanununun geçersizliğe ilişkin genel hükümleri,21,21,2
+681,Mirasçılar,47,44,3
+682,Paylaşma sözleşmesinde ödenmesi kendisine yükletilmemi ş olan bir tereke borcunu veya üzerine aldığı miktardan fazlasını ödeyen mirasçı,65,59,4
+683,Bir şeye malik olan kimse,50,47,3
+684,Bir şeye ma lik olan kimse,41,36,3
+685,Bir şeyin maliki,46,38,4
+686,Bir şeye ilişkin tasarruflar,58,47,4
+687,Asıl şeye zilyet olan kimsenin sadece geçici olarak kullanması veya tüketmesi için özgülenen ya da asıl şeyin özel niteliği il e herhangi bir ilişkisi bulunmadan sadece korunmak,47,44,2
+688,Paylı mülkiyette birden çok kimse,48,46,5
+689,Paydaşlar,91,81,4
+690,Paydaşlardan her biri olağan yönetim işlerini yapmaya,45,40,3
+691,İşletme usulünün veya tarım türünün değiştirilmesi,93,74,4
+692,Paylı malın özgülendiği amacın değiştirilmesi,53,46,3
+693,Paydaşlardan her bi ri,91,76,7
+695,Yararlanma,59,44,3
+696,Kendi tutum ve davranışlarıyla veya malın kullanılmasını bıraktığı y a da fiillerinden sorumlu olduğu kişilerin tutum ve davranışlarıyla diğer paydaşların tamamına veya bir kısmına karşı olan yükümlülüklerini ağır biçimde çiğneyen payd aş,191,145,9
+697,Bir paydaşın çıkarılmasına ilişkin hükümler,50,44,3
+698,Hukuk,65,59,5
+699,Paylaşma,85,73,5
+700,Bir paydaşın kendi payı üzerinde i ntifa hakkı kurması h,45,41,2
+701,Kanun veya kanunda öngörülen sözl eşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti,96,83,7
+703,Elbirliği mülkiyeti,40,34,3
+704,Taşınmaz mülkiyetinin konusu şunlardır,27,24,2
+705,Taşınmaz mülkiyetinin kazanılması,43,42,4
+706,Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerli olması,26,26,3
+707,Tapu kütüğüne kayıtlı bir taşınmazın mülkiyetin in işgal yoluyla kazanılması,32,29,3
+708,Birikme,75,67,4
+709,Arazi kayması sınır değişikliğini gerektirmez,29,25,3
+710,Arazi ka ymasının sınır değişikliğine yol açmayacağı ilkesi,46,44,4
+711,Sınır,24,23,3
+712,Geçer li bir hukuk,38,36,2
+713,Tapu kütüğünde kayıtlı olmayan bir taşınmazı davasız ve aralıksız olarak yirmi yıl süreyle ve malik sıfatıyla zilyetliğinde bulunduran kişi,206,150,9
+714,Kazandırıcı zamanaşımı sürelerinin hesaplanmasında,24,23,2
+715,Sahipsiz yerler ile y ararı kamuya ait mallar,112,86,7
+716,Mülkiyetin kazanılmasına esas olacak bir hukuk,71,64,4
+717,Taşınmaz mülkiyeti,34,29,2
+718,Arazi üzerindeki mülkiyet,34,33,3
+719,Taşınmazın sınırları,37,33,4
+720,Her arazi maliki,29,29,2
+721,İki taşınmazı birbirinden ayırmaya yarayan duvar,32,30,1
+722,Bir kimse kendi arazisindeki yapıda başkasının malzemesini ya da başkasının araz isindeki yapıda kendisinin veya bir başkasının malzemesini kullanırsa,76,58,4
+723,Malzeme sökülüp alınmazsa arazi maliki,54,41,4
+724,Yapının değeri açıkça arazinin değerinden fazlaysa,29,26,2
+725,Bir yapının başkasına ait araziye taşırılan kısmı,81,67,3
+726,Bir üst irtifakına dayalı olarak başkasına ait bir arazinin altında veya üs tünde sürekli kalmak üzere inşa edilen yapıların mülkiyeti,54,43,4
+727,Su,66,55,4
+728,Başkasının arazisi üzerinde kalıcı olması amaçlanmaksızın yapı lan kulübe,36,34,3
+729,Bir kimse başkasının fidanını kendi arazisine ya da kendisinin veya bir üçüncü kişinin fidanını başkasının arazisine dikerse,43,35,3
+730,Bir taşınmaz malikinin mülkiyet hakkını bu hakkın yasal kısıtlamalarına aykırı kullanması sonucunda zarar gören veya zarar tehlikesi ile karşılaşan kimse,54,49,3
+731,Taşınmaz mülkiyetinin kanundan doğa n kısıtlamaları,49,44,4
+732,Paylı mülkiyette bir paydaşın taşınmaz üzerindeki payını tamamen veya kısmen üçüncü kişiye satması h,28,28,2
+733,Cebr,110,90,8
+735,Tapu kütüğüne şerh verilen sözleşmeden doğan önalım hakkı,63,52,5
+736,Tapu kütüğüne şerh verilen alım ve geri alım hakları,36,33,3
+737,Herkes,64,57,3
+738,Malik,39,39,3
+739,Kazı ve yapılarda uyulması gerekli kurallar özel kanunlar la belirlenir,14,14,2
+740,Komşunun arazisine taşarak zarar veren da l ve kökler,53,45,4
+741,Komşu taşınmaz maliklerinin bitki dikerken uymak zorunda oldukları kurallar özel kanunlarla belirlenir,17,17,2
+742,Taşınmaz maliki,51,46,4
+743,Bir arazinin suyu öteden beri alt taraftaki araziye doğal bir şekilde akmakta ise,72,61,4
+744,Her taşınmaz maliki,79,75,4
+745,Yükümlü taşınmaz maliki,42,37,3
+746,Durum değişirse,46,40,4
+747,Taşınmazından genel yola çıkmak için yeterli geçidi bulunmayan malik,62,55,4
+748,Taşınmaz malikinin taşınma zını işletme veya iyileştirme ya da taşınmazı üzerinde yapı yapma amacıyla komşu taşınmaza geçici olarak girme hakkı ile tarla yolu,71,66,5
+749,Sınırlıklar üzerinde paylı mülkiyete ilişkin hükümler saklı kalmak üzere,38,34,3
+750,Her taşınmaz maliki,29,27,2
+751,Yetkili makamlar tarafından bitki örtüsünü koru mak amacıyla yasaklanmadıkça,48,44,3
+752,Su,67,62,3
+753,Bir kimse kendisini veya başkasını tehdit eden bir zararı veya o anda mevcut bir tehlikeyi anc ak başkasının taşınmazına müdahale ile önleyebilecek ve bu zarar ya da tehlike taşınmaza m üdahaleden doğacak zarardan önemli ölçüde büyük ise,60,52,3
+754,Taşınmaz mülkiyeti ha kkının kamu yararı için kısıtlanması,78,68,2
+755,Su yollarını düzeltme,71,64,5
+756,Kaynaklar,67,59,6
+757,Önemli ölçüde yararlanılan ve ya yararlanmak amacıyla suyu biriktirilen kaynakları veya kuyuları kazı,65,55,3
+758,Bir taşınmazda oturmak,48,44,3
+759,Değişik maliklere ait komşu kaynaklar,90,74,4
+760,Özel mülkiyete t,40,34,3
+761,Evi,62,59,4
+762,Taşınır mülkiyetinin konusu,27,26,2
+763,Taşınır mülkiyetinin nakli için zilyetliğin devri gerekir,40,40,3
+764,Başkasına devredilen bir malın mülk iyetinin saklı tutulması kaydı,33,32,3
+765,Taksit le mal satan kimse,26,26,2
+766,Bir taşınırın mülkiyetini nakleden kimse özel bir hukuk,50,48,4
+767,Sahipsiz bir taşınırı malik ol mak iradesiyle zilyetliğine geçiren kimse,17,16,2
+768,Tutulan av hayvanları,48,38,4
+769,Kaybedilmiş bir şeyi b ulan kimse,78,57,4
+770,Bulu nan şeyin özenle korunması gerekir,52,46,5
+771,Bulunan şeyin maliki,76,62,5
+772,Bulunmalarından çok zaman önce gömülmüş veya saklanmış olduğu ve duruma göre artık malikin in bulunmadığı kesin olarak anlaşılan değerli şeyler,57,54,4
+773,Bilimsel değeri olan sahipsiz doğal şeyler ile eski eserlerin bulunması h,22,21,2
+774,Su,45,42,3
+775,Bir kimse başkasına ait bir şeyi işler veya başka bir şekle sokarsa,58,49,4
+776,Birden çok kişinin taşınır malları önemli bir zarara uğratılm adan veya aşırı bir emek ve para harcanmadan ayrılmayacak şekilde birbiriyle birleşmiş veya karışmışsa o kişiler,75,67,4
+777,Başka sının taşınır bir malını davasız ve aralıksız beş yıl iyiniyetle ve malik sıfatıyla zilyetliğinde bulunduran kimse,104,83,5
+779,Taşınmaz lehine irtifak hakkı,61,53,3
+780,İrtifak hakkının kurulması için tapu kütüğüne tescil şarttır,37,33,4
+781,İrtifak hakkının kurulmasına ilişkin sözleşmenin geçerli olması,17,16,2
+782,Malik kendisine ait iki taşınmazdan biri üzerinde diğe rinin lehine irtifak hakkı kurabilir,18,18,2
+783,İrtifak hakkı,22,22,2
+784,Yüklü ve yararlana n taşınmazlara aynı kimse malik olursa,25,23,3
+785,Lehine irtifak kurulan taşınmaz için bu hakkın sağladığı hiç bir yarar kalmam ışsa,43,38,3
+786,İrtifak hakkı sahibi,39,35,3
+787,İrtifaktan doğan yetki ve yükümlülükleri açıkça belirlediği ölçüde tescil,41,39,3
+788,Yararlanan taşınma zın ihtiyaçlarındaki değişiklik,17,16,2
+789,Tarla yolu,40,36,2
+790,İrtifak hakkının kullanılması için gerekli tesislerin bakımı,37,35,3
+791,İrtifak hakkı yüklü taşınmazın yalnı z belli bir kısmının kullanılması koşuluyla kurulmuşsa,67,56,4
+792,Yararlanan taşınmazın parsellere bölünmesi h,63,51,4
+793,Yüklü taşınmazın parsellere bölünmesi h,73,57,4
+794,İntifa hakkı,26,25,3
+795,İntifa hakkı,60,46,5
+796,İntifa hakkı,43,37,3
+797,İntifa hakkı,34,30,3
+798,Malik,40,36,3
+799,İntifa hakkı sona erince hak sahibi,17,17,2
+800,İntifa hakkı sahibi,47,40,4
+801,İntifa hakkı sahibi,41,36,3
+802,Geri verme anında malik ve intifa hakkı sahibi tarafından ileri sürülebilecek bütün istem hakları,34,30,2
+803,İntifa hakkı sahibi,34,31,3
+804,İntifa hakkı süresi içinde olgunlaşan doğal ürünler,52,43,4
+805,İntifa hakkına konu olan sermayenin faizleri ve diğer dönemsel gelirleri,34,33,2
+806,Sözleşmede aksine hüküm yoksa veya durum ve koşullardan hak sahibince şahsen kullanılması gerektiği anlaşılmıyorsa,54,51,4
+808,Haklarının tehlikeye düştüğünü ispat eden malik,44,37,4
+809,İntifa hakkı k endisinde kalmak üzere yapılan bağışlamalarda bağışlayandan güvence istenemez,15,14,2
+810,İntifa hakkı sahibi,46,42,2
+811,Malik veya intifa hakkı sahibi,29,26,2
+812,İntifa hakkı sahibi,61,50,4
+813,İntifa hakkı konusu olan malın olağan bakım ve işletme giderleri,83,60,5
+814,Malvarlığı intifaında,41,33,4
+815,Yerel,53,45,3
+816,Bir taşınmaz üzerinde intifa hakkına sahip olan kimse,30,30,3
+817,İntifa hakkı sahibi,56,43,3
+818,Bir orman üzerinde intifa hakkına sahip olan kimse,167,124,8
+820,Bir alacak üzerindeki intifa hakkı,66,51,4
+821,Alacaklı ve intifa hakkı sahibinden birine ödemeye yetkili kılınmamış olan borçlu,56,46,4
+822,İntifa hakkı sahibi,72,60,4
+823,Oturma hakkı,87,67,7
+825,Oturma hakkı,57,43,3
+826,Bir taşınmaz maliki,67,55,5
+827,Üst hakkının içerik ve kapsamıyla ilgili olarak resm,40,38,2
+828,Üst hakkı sona erince yapılar,59,46,5
+829,Taşınmaz maliki,97,70,6
+830,Taşınmaz malikine kalan yapılar için üst hakkı sahibine ödenmesi kararlaştırıl an bedelin miktarı ve bunun hesaplanış biçimi ile bu bedel borcunun kaldırılmasına ve arazinin ilk h,50,46,2
+831,Üst hakkı sahibi,38,36,2
+832,Malik,41,37,4
+833,Üst hakkı sahibini n yükümlülüklerine aykırı davranması h,39,32,2
+834,Malik,59,47,3
+835,İpotek,31,29,3
+836,Üst hakkı,46,37,4
+837,Başkasının arazisinde bulun an kaynak üzerinde irtifak hakkı,249,161,15
+841,Aksine hüküm yoksa,34,30,3
+842,Bir para alacağını güvence altına almak ama cıyla kurulan taşınmaz yükü hakkında irat senedine ilişkin hükümler uygulanır,22,22,2
+843,Taşınmaz yükü tescilin terkini veya yükl ü taşınmazın tamamen yok olmasıyla sona erer,35,28,3
+844,Alacaklı,49,46,2
+845,Yükümlü,75,64,4
+846,Gerçek değerinin daha düşük olduğ unu ispat etme hakkı saklı kalmak kaydıyla,26,26,2
+847,Taşınmaz yükü zamanaşımına t,25,23,3
+848,Taşınmaz yükü,42,40,3
+849,Taşınmaz maliki değişirse yeni malik,41,36,3
+850,Taşınmaz rehni,20,19,2
+851,Taşınmaz rehni,158,99,9
+852,Sınırlayıcı hükümler saklı kalmak kaydıyla,33,33,3
+853,Rehin hakkı,15,15,2
+854,Rehin kurulurken,25,23,3
+855,Birden çok taşınmazın aynı borç için rehnedilm esi,67,55,4
+856,Taşınmaz rehni tapu kütüğüne tescil ile kurulur,30,29,4
+857,Paylı mülkiyette paydaş kendi payını rehnedebilir,33,33,4
+858,Taşınmaz rehni,25,24,3
+859,Yetkili kamu kurum veya kuruluşu tarafından gerçekleştirilen parsel birleştirilmesi ve dağıtımı iş lemi sonucunda birleştirilen parsel üzerindeki rehinler,95,80,4
+861,Rehinli bir taşı nmaz için bedel olarak ödenen para,55,50,3
+862,Rehin,50,48,4
+863,Kiraya verilmiş taşınmaz üzerindeki rehnin kapsamına,86,66,3
+864,Rehnin tapu kütüğüne tescil edilmesinden s onra alacak için zamanaşımı işlemez,21,21,2
+865,Malik,78,67,4
+866,Rehinli taşınmazın değerinde düşme meydana gelmişse alacaklı,56,45,4
+867,Değer düşmesi malikin kusuru olmadan meydana gelmişse alacaklı,78,70,5
+868,Malik,48,44,2
+869,Malikin rehinli taşınmaz üzerinde yeni sınırlı ayn,95,72,5
+870,Rehnin sağladığı güvence,32,30,3
+871,Aynı taşınmaz üzerinde farklı sıralarda kurulmuş bulunan rehin haklarından birinin terkin edilmiş ol ması,65,51,4
+872,Sonraki sıralarda kurulmuş bir rehin hakkından önce gelen bir rehin mevcut değilse veya borçlu önceki bir rehin senedi üzerinde tasarruf etmemişse ya da önceki sırada bulunan rehinli alacak,59,51,2
+873,Borç ödenmezse alacaklı,56,50,5
+874,Rehinli taşınmazın satış bedeli,26,21,3
+875,Taşınmaz rehninin alacaklıy a sağladığı güvencenin kapsamına şunlar girer,53,51,3
+876,Alacaklı,37,36,2
+877,Bir kamu kurum veya kuruluşunun katkısıyla iyileştirilen arazinin değerinde bir artma meydana gelirse malik,67,58,4
+878,İyileştirme,45,41,3
+879,Muaccel olan sigorta tazminatı,34,32,3
+880,Acele karar alınması gereken h,45,43,2
+881,H,37,36,3
+882,Miktarı belirli olmayan veya değişebilen alacaklar da,62,59,5
+883,Alacak son a erince ipotekli taşınmazın maliki,54,49,3
+884,Borçtan şahsen sorumlu olmayan rehinli taşınmaz maliki,30,29,3
+885,Değerini aşan bir borç için ipotek edilmiş olan bir taşınmazı edinen k imse,66,56,5
+886,İpotekten kurtarma ihbarına karşı alacaklılar,77,65,5
+887,İpotekli taşınmazın maliki borçtan şahsen sorumlu değilse,33,30,2
+888,İpotekli taşı nmazın devri,40,38,3
+889,İpotekli taşınmazın bir kısmının veya aynı malike ait bulunan ipotekli taşınmazlardan birini n başkasına devredilmesi ya da ipotekli taşınmazın bölünmesi h,88,73,4
+890,Taşınmazın yeni maliki borcu yüklenirse,32,30,3
+891,İpotekle güvence altına alınmış bir alacağın devrinin geçerli olması,26,24,2
+892,Kanun,21,20,2
+893,Aşağıdaki alacaklılar,80,62,3
+894,Satıcıların,28,26,2
+895,Zanaatk,51,45,5
+896,Hakları değişik tarihlerde tescil edilmiş olsa bile zanaatk,22,22,2
+897,Satış bedeli zanaatk,132,103,6
+899,İpotekli borç senedi yoluyla r ehin kurulması için tapu idaresince taşınmaza resmen değer biçilir,28,22,3
+900,İpotekli borç senedindeki alacak,32,32,2
+901,İpotekli borç senedindeki borçtan kişisel olarak sorumlu olmayan rehinli taşınma z maliki hakkında ipoteğe ilişkin hükümler uygulanır,31,29,3
+902,İpotekli borç senedinin güvencesi olan taşınmazın devrine veya bölünmesine ilişkin sonuç lar hakkında ipotek hükümleri uygulanır,23,23,2
+903,İrat senedi,42,35,4
+904,İrat senetlerindeki alacak miktarı,33,32,3
+905,Değer biçilmesinde gereken özenin gösterilmemesinden Devlet sorumludur,17,16,3
+906,İrat senedi ile yüklü olan taşınma zın maliki,60,47,3
+907,İrat senedinin borçlusu yüklü taşı nmazın malikidir,40,35,4
+908,İrat senediyle yüklü taşınmazın bölünmesi h,53,44,4
+909,İpotekli borç senedi ve irat senedi koşul ve karşı edim kaydı içeremez,18,15,2
+910,İpotekli bor ç senedinin veya irat senedinin düzenlenmesiyle birlikte dayanağı olan borç ilişkisi yenileme yoluyla sona erer,39,35,3
+911,İpotekli borç senedi veya irat senedi için tapu kütüğüne yapılacak tescilden başka rehin senedi de düzenlenir,34,31,3
+912,İpotekli borç senedi ve irat senedi,40,35,4
+913,İpotekli borç senedi ve irat senedinin şekilleri Cumhurbaşkanınca çıkarılan yönetme likle belirlenir,17,17,2
+914,İpotekl i borç senedi ve irat senedi nama veya hamile yazılı düzenlenebilir,23,21,3
+915,İpotekli borç senedi veya irat senedi düzenlenirken,65,57,4
+916,Rehin senedinden aksi anlaşılmadıkça,80,69,5
+917,Alacağın devri h,47,47,3
+918,Alacaklı yoksa veya rehin hakkından feragat ederse borçlu,25,23,3
+919,İpotekli borç sene di veya irat senedine ilişkin tescil,28,26,2
+920,İpotekli borç senedinden veya irat senedinden d oğan alacak,22,21,2
+921,Usulüne göre düzenlenmiş olan ipotekli borç senedi veya irat senedi,26,24,2
+922,İpotekli borç senedi veya irat senedi metninde yazılı olanlar tapu kütüğündeki tescile uymazsa veya ta pu kütüğünde tescil yoksa,39,34,3
+923,Nama veya hamile yazılı ipotekli borç senedi veya irat sene dindeki alacak,46,43,3
+924,İpotekli borç senedindeki veya irat senedindeki alacağın devri,32,29,3
+925,Rehin senedi irade dışında elden çıkmış veya borcu sona erdirme ka stı olmaksızın yok edilmiş ise alacaklı,79,71,4
+926,İpotekli borç senedi veya irat senedinin alacaklısının kim olduğu on yıldan beri bilinmiyor ve bu süre içinde faiz ödenmesi de istenmemiş bulunuyorsa,70,66,3
+927,Borçlu yalnız tescilden veya senetten doğan def,25,24,2
+928,Borcun tamamını ödeyen borçlu,17,17,2
+929,Borçlu borcun kısmen ödenmesi veya borç yükünün hafifletilmesi ya da güvencenin azaltılması gibi hukuk,68,62,4
+930,Nama veya hamile yazılı tahviller,66,54,2
+931,Seri h,29,24,2
+932,Seri h,52,45,4
+933,Borçlu,27,25,3
+934,Senetler,30,27,3
+935,Senedi çıkaran aracı kurum,33,31,2
+936,Senetlerin geri ödenmesi,68,63,4
+937,Rehinli taşınmazın maliki veya aracı kurum,30,30,3
+938,Rehinli taşınm azlar yerine elde edilen paralar,36,34,2
+939,Kanunda öngörülen ayrık durumlar dışında taşınırlar,54,49,5
+940,Yetkili makamlar tarafından izin verilen kuru luşlar ile kooperatiflerin alacaklarının güvence altına alınması için,81,61,5
+941,Rehnedilen taşınırın maliki,51,46,3
+942,Alacaklı,16,16,2
+943,Taşını r rehni,36,32,3
+944,Alacağın ödenmesi suretiyle veya başka bir sebeple rehin hakkı sona eri nce alacaklı,36,30,3
+945,Alacaklı,42,38,3
+946,Alacaklı,28,27,3
+947,Rehin,34,30,4
+948,Aynı taşınır üzerinde birden çok rehin hakkı bulunduğ u takdirde,27,24,3
+949,Borcun ödenmemesi h,19,19,2
+950,Alacaklı,62,56,4
+951,Nitelikleri itibarıyla paraya çevrilmeye elverişli ol mayan taşınırlar üzerinde hapis hakkı kullanılamaz,40,36,3
+952,Alacaklı,68,53,3
+953,Borç yerine getirilmez ve yeterli güvence de gösterilmezse alacaklı,55,50,3
+954,Başkasına devredilebilen alacaklar ve diğer haklar rehnedilebilir,31,30,3
+955,Senede bağlanmış olan veya olmayan alacakların rehni için rehin sözleşmesinin yazılı şekilde yapılması ve sened e bağlı alacaklarda senedin teslim edilmesi gerekir,82,60,6
+957,Emti ayı temsil eden kıymetli evrakın rehnedilmesiyle emtia üzerinde rehin hakkı doğar,45,39,3
+958,Rehinli bir alacak üzerinde sonra gelen bir rehnin kurulması,33,28,2
+959,Faiz veya k,61,56,3
+960,Ortaklık genel kurulunda rehinli pay senetlerini temsil etmek yetkisi,86,72,5
+962,İşletme olarak taşınır rehni karşılığında ödünç verme işiyle uğraşmak isteyenler,18,18,2
+963,Özel işletmelere ancak belli süre için izin verilebilir,32,30,4
+964,Rehnedilen taşınırın işletmeye teslim edilmesi ve karşılığında bir makbuzun alınmasıyla rehin kurulmuş olur,19,19,2
+965,Borç vadesinde ödenmezse,34,33,3
+966,Satış bedelinin rehinli alacak mik tarından fazla olması h,58,50,4
+967,Rehnedilen taşınır,63,45,4
+968,Ödünç veren,47,44,3
+969,Geri alım hakkı tanıyarak satın almayı meslek edinenler hakkında da,25,25,2
+970,İşletme o larak taşınmaz rehni karşılığında ödünç verme işiyle uğraşmak üzere yetkili makamdan izin alanlar,42,41,2
+971,Alacaklılar,57,49,4
+973,Bir şey üzerinde fiil,29,26,3
+974,Zilyet,40,36,3
+975,Bir şeyde fiil,25,22,2
+976,Fiil,51,44,3
+978,Temsil ciye yapılan teslim,13,13,2
+979,Bir üçüncü kişi veya zilyetliği devreden,64,52,3
+980,Bir taşıyıcıya veya umum,46,37,3
+981,Zilyet,46,42,4
+982,Başkasının zilyet bulunduğu bir şeyi gasbeden kimse,56,44,4
+983,Saldırıda bulunan,63,55,4
+985,Taşınırın zilyedi onun mal iki sayılır,19,18,3
+986,Bir taşınıra malik olma iradesi bulunmaksızın zilyet olan kimse,55,46,4
+987,Bir taşınırın zilyedi,33,33,3
+988,Bir taşınırın emin sıfatıyla zilyedinden o şey üzerinde iyiniyetle mülkiyet veya sınırlı ayn,33,32,2
+989,Taşınırı çalınan,98,75,5
+991,Bir taşınırın zilyetliğini iyiniyetle edinmemiş olan kimseye karş ı önceki zilyet,32,25,3
+992,Tapuya kayıtlı taşınmazlarda,40,37,3
+993,İyiniyetle zilyedi bulunduğu şeyi,46,42,3
+994,İyiniyetli zilyet,79,60,5
+995,İyiniyetli olmayan zilyet,65,53,4
+996,Kazandırıcı zamanaşımından yararlanma hakkına sahip olan zilyet,32,31,2
+997,Taşınmazlar üzerindeki hakları göstermek üzere tapu s icili tutulur,44,36,4
+998,Tapu siciline taşınmaz olarak ş unlar kaydedilir,92,67,7
+999,Özel mülkiyete t,41,36,3
+1000,Her taşınmaza kütükte bir sayfa ayrılır ve sayfa n umaraları birbirini izler,143,108,8
+1001,Kat mülkiyetine konu olan bağımsız bölümler,72,52,4
+1002,Tapu kütüğüne tescil istemleri,31,30,3
+1003,Bir taşınmazın kütüğe kaydı ve belirlenmesinde resm,28,26,3
+1004,Taşınmazlar,10,10,2
+1005,Birden çok bölgede bulunan taşınmaz,49,42,3
+1006,Tapu idarelerinin kuruluş,14,14,2
+1007,Tapu sicilinin tutulmasından doğan bütün zararlardan Devlet sorumludur,50,46,5
+1008,Taşınmaza ilişkin aşağıdaki haklar,21,20,2
+1009,Arsa payı karşılığı inşaat,43,41,3
+1010,Aşağıdaki sebeplere dayanan tasarruf yetkisi kısıtlamaları,55,49,3
+1011,Aşağıdaki h,96,83,6
+1012,Bir taşınmazın eklentileri,56,51,5
+1013,Tescil,47,45,4
+1014,Bir tescilin terkin edilmesi veya değiştirilmesi,22,22,2
+1015,Tescil,56,45,4
+1016,Tasarruf yetkisine ve hukuk,65,59,4
+1017,Kütüğe tesciller,32,31,4
+1018,Taşınmaz lehine irtifakların tescil ve terkini hem yüklü,18,17,2
+1019,Tapu memuru,28,25,3
+1020,Tapu sicili herkese açıktır,40,36,4
+1021,Kurulması kanunen tescile t,16,16,2
+1022,Ayn,76,70,5
+1023,Tapu kütüğündeki tescile iyiniyetle dayanarak mülkiyet veya bir başka ayn,23,22,2
+1024,Bir ayn,60,50,4
+1025,Bir ayn,51,44,3
+1026,Bir ayn,64,59,4
+1027,İlgililerin yazılı rızalar ı olmadıkça,60,53,5
+1028,17 Şubat 1926 tarihli ve 743 sayılı Türk Kanunu Meden,11,11,2
+1029,Bu Kanun 1 Ocak 2002 tarihinde yürürlüğe girer,8,8,2
+1030,Bu Kanu n hükümlerini Bakanlar Kurulu yürütür,18,15,2
+36,Bu Kanunla değiştirilen Türk Meden,257,87,2
